@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SharkieWasBanned",
+      "uniqueId": "856ac4da-099c-419c-b90c-5d63284384b1"
+    },
+    "time": 1631938801444,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/gQFoqvo66t"
+    }
+  }
+]

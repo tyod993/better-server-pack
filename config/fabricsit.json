@@ -1,0 +1,5 @@
+{
+  "requireStanding": true,
+  "maxDistanceToSit": -1.0,
+  "requireEmptyHand": true
+}

@@ -1,0 +1,165 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = cool_slideshow
+  action = setbackgroundslideshow
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400358%
+  action = hidebutton
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = opengui
+  x = 104
+  width = 20
+  actionid = f8f6f529-b701-4c7c-9e9c-92813934cbe71630432317812
+  action = addbutton
+  y = 37
+  label = 
+  value = com.terraformersmc.modmenu.gui.ModsScreen
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  hoverlabel = Use CODE: LunaPixel for 25% off
+  buttonaction = openlink
+  x = -100
+  width = 200
+  actionid = 71c5714e-d3c5-421c-a7d1-a89fb24ed8b01630432317813
+  action = addbutton
+  y = 37
+  label = Bisect Server Hosting
+  value = https://www.bisecthosting.com/LunaPixel
+  height = 20
+}
+
+customization {
+  orientation = mid-centered
+  buttonaction = openlink
+  x = -124
+  width = 20
+  actionid = 0f2018b5-062d-4535-ae0f-47feb485eb651630432317813
+  action = addbutton
+  y = 37
+  label = D
+  value = https://discord.gg/9S5tfrY4Fr
+  height = 20
+}
+
+customization {
+  path = resourcepacks/Graphics/discord.png
+  orientation = mid-centered
+  x = -121
+  width = 14
+  actionid = dd29d7e2-5908-4588-822e-53f85f64a6b11619564035680
+  action = addtexture
+  y = 39
+  height = 15
+}
+
+customization {
+  orientation = bottom-left
+  shadow = true
+  x = 2
+  actionid = d9ba04d7-a148-47c1-b39b-b476f5b8ade51622569281187
+  action = addtext
+  y = -11
+  scale = 1.0
+  alignment = left
+  value = Allocate More RAM For Better Performance
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 13
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -12
+}
+
+customization {
+  identifier = %id=400286%
+  width = 200
+  action = resizebutton
+  height = 21
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 65
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = mid-centered
+  x = 2
+  action = movebutton
+  y = 65
+}
+
+customization {
+  identifier = %id=604394%
+  orientation = mid-centered
+  x = 104
+  action = movebutton
+  y = 65
+}
+
+customization {
+  identifier = %id=376394%
+  orientation = mid-centered
+  x = -124
+  action = movebutton
+  y = 65
+}
+
+customization {
+  path = resourcepacks/Graphics/fabricapi.png
+  orientation = mid-centered
+  x = 106
+  width = 15
+  actionid = 29c79370-a225-4661-8b57-4e6b541accfe1624244950818
+  action = addtexture
+  y = 39
+  height = 15
+}
+
+customization {
+  path = resourcepacks/Graphics/logo.png
+  orientation = mid-centered
+  x = -110
+  width = 221
+  actionid = 4480cf46-0011-4e6d-9095-6b74b480fb981630432338563
+  action = addtexture
+  y = -119
+  height = 100
+}
+
